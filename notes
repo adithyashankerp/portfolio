@@ -1,0 +1,15 @@
+/*
+pseudoclass
+        - to define status of element
+
+media query-used to make website resposive
+
+@media not|only mediatype and (media feature) and (media feature) {
+  CSS-Code;
+}
+general break points
+ sm-480px
+ md-768px
+ lg-992px
+ xl-1280px
+*/
